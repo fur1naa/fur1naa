@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @fur1naa
-- 👀 I’m interested in coding in pm
-- 🌱 I’m currently learning nothin rly
-- 💞️ I’m looking to collaborate on pm projects
-- 📫 How to reach me @fur1na__ on discord
-- 😄 Pronouns: eh/rah/eh
-- ⚡ Fun fact: nothing here
-
+very social programmer
+i programm in lua/scratch languages
+i like playing sols rng
+https://discord.gg/NmFekcD76y - my roblox production server
+https://discord.gg/wq8zP5tTDk - my macro for sols rng
